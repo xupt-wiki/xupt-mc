@@ -1,0 +1,45 @@
+logo:
+  subtitle: 西邮MC兴趣交流团体|Cube of Posts
+
+menubar:
+  columns: 3
+  items:
+    - id: post
+      title: 文章
+      url: /
+    - id: link
+      title: 链接
+      url: /link/
+    - id: about
+      title: 关于
+      url: /about/
+
+footer:
+  sitemap:
+    探索:
+      - "[<i class='fa-solid fa-book'></i>MUA Wiki](https://www.mualliance.cn/wiki)"
+      - "[<i class='fa-solid fa-server'></i>MUA服务器](https://www.mualliance.cn/server)"
+      - "[<i class='fa-solid fa-map-location-dot'></i>高校MC组织地图](https://map.mualliance.cn/)"
+    加入:
+      - "[<i class='fa-brands fa-qq'></i>QQ群: 779877449](https://qm.qq.com/q/MllD9EItGw)"
+    信息:
+      - "[<i class='fa-regular fa-calendar-check'></i>邮立方建立<uptime></uptime>](javascript:;)"
+      - "[<i class='fa-solid fa-medal'></i>Minecraft高校联盟成员](https://www.mualliance.cn/)"
+      # - "[<i class='fa-solid fa-clock-rotate-left'></i>上次更新于<lastupdate></lastupdate>](javascript:;)"
+      - "[<i class='fa-solid fa-palette'></i>Stellar](https://github.com/xaoxuu/hexo-theme-stellar)"
+  content: ""
+
+style:
+  font-family:
+    logo: AlimamaFangYuanTi
+    body: LXGW WenKai Screen
+  sidebar:
+    background: "linear-gradient(60deg, #cde, #8ac)"
+
+inject:
+  head:
+    - <link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/style.min.css" media="none" onload="this.media='all'">
+    - <link rel="stylesheet" href="//lib.baomitu.com/font-awesome/6.5.1/css/all.min.css" media="none" onload="this.media='all'">
+    - <link rel="stylesheet" href="/static/font.css">
+  script:
+    - <script src="/static/uptime.js"></script>
