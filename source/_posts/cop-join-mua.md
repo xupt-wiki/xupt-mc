@@ -2,7 +2,7 @@
 title: 恭喜邮立方加入Minecraft高校联盟
 categories: [公告]
 date: 2023-10-06 15:57:00
-indent: true
+type: story
 ---
 
 2023年10月6日，邮立方（Cube of Posts）首次面向公众开放，同时作为兴趣交流团体加入Minecraft高校联盟（MUA）。

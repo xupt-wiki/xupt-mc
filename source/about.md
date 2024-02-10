@@ -11,7 +11,7 @@ breadcrumb: false
 {% link https://www.mualliance.cn/archives/1813 MUA成员：邮立方 icon:https://www.mualliance.cn/wp-content/uploads/2023/01/cropped-mualogo_512_tm-192x192.png %}
 
 ### 活动阵地
-{% hashtag QQ群:779877449 https://qm.qq.com/q/MllD9EItGw %}
+{% link https://qm.qq.com/q/MllD9EItGw QQ群:779877449 icon:https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png %}
 
 ### 负责人
 #### 纸鹿/Zhilu (2022.10-)
@@ -24,8 +24,9 @@ breadcrumb: false
 {% timeline %}
 <!-- node 2022年10月12日 -->
 在[Ayuki13](https://jiahuann.thisis.host)的帮助下，邮立方成立。
-<!-- node 2023年10月6日 -->
+<!-- node 2023年10月6日 国庆假期 -->
 负责人纸鹿代表西安邮电大学Minecraft兴趣团体参加了陕西Minecraft高校联盟的第三次聚餐活动。
-<!-- node 2023年10月6日 -->
-邮立方首次对公众开放，并正式加入[Minecraft高校联盟(MUA)](https://www.mualliance.cn/)。
+同日，邮立方首次对公众开放，并正式加入[Minecraft高校联盟(MUA)](https://www.mualliance.cn/)。
+<!-- node 2024年2月10日 龙年春节 -->
+邮立方网站由静态网页升级为博客。
 {% endtimeline %}

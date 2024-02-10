@@ -6,8 +6,8 @@
 title: 邮立方
 subtitle: 邮立方
 description: 邮立方
-favicon: http://p.qlogo.cn/gh/779877449/779877449/0/
-avatar: http://p.qlogo.cn/gh/779877449/779877449/0/
+favicon: https://p.qlogo.cn/gh/779877449/779877449/0/
+avatar: https://p.qlogo.cn/gh/779877449/779877449/0/
 keywords:
 author: 纸鹿
 language: zh-CN
@@ -104,6 +104,6 @@ theme: stellar
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: "git"
-  repo: git@github.com:pubsite/cube-of-posts-site.git
+  repo: https://github.com/pubsite/cube-of-posts-site.git
   branch: pages
   message: "Site updated: {{ now('DD HH:mm:ss') }}"
