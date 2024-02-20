@@ -1,6 +1,3 @@
-- title: 西农MC工作室
-  url: https://docs.nwafu.com.cn/
-  icon: https://docs.nwafu.com.cn/logo.png
 - title: 南开MC社区
   url: https://mcnku.net/
   icon: https://mcnku.net/assets/image/logo.svg
@@ -25,6 +22,9 @@
 - title: 上交MC社
   url: https://mc.sjtu.cn/
   icon: https://mc.sjtu.cn/wp-content/uploads/2022/03/cropped-mcclub-512px-192x192.png
+- title: 上应大MC服务器
+  url: https://www.sitmc.club/
+  icon: http://www.sitmc.club/wp-content/uploads/2024/01/1704808785-f55e9b922ca6f91cc1efb0f3af583ffb-e1704808846199.jpg
 - title: 浙工大MC方块社
   url: https://zjutmc.club/
   icon: https://zjutmc.club/wp-content/uploads/2022/09/cropped-ZJUT_MC_LOGO_%E5%B0%8F%E5%9B%BE%E6%A0%87-192x192.png
@@ -55,3 +55,6 @@
 - title: 深技大MC角
   url: https://web.sztumc.top/
   icon: https://i1.hdslb.com/bfs/face/89b0a32da63f2ab8ab9c74343745c2b8c24a89a2.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif
+- title: 西农MC工作室
+  url: https://docs.nwafu.com.cn/
+  icon: https://docs.nwafu.com.cn/logo.png

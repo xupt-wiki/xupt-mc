@@ -3,7 +3,6 @@ title: 2024年新春快乐
 categories: [公告]
 author: mua
 date: 2024-02-10 00:31:00
-type: story
 ---
 
 亲爱的Minecraft高校联盟的玩家们，新春快乐！

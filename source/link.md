@@ -2,6 +2,7 @@
 menu_id: link
 title: 链接
 breadcrumb: false
+type: tech
 ---
 
 ## Minecraft高校联盟(MUA)
@@ -13,6 +14,18 @@ breadcrumb: false
 ### 成员网站
 
 {% friends mua-member %}
+
+{% tabs %}
+<!-- tab 邮立方网站信息 -->
+```yaml
+- name: 邮立方 / Cube of Posts
+  link: https://cop.cooo.site
+  icon: https://p.qlogo.cn/gh/779877449/779877449/0/
+  desc: 西安邮电大学 Minecraft 兴趣交流团体(或者)西邮MC兴趣群体
+```
+<!-- tab 申请友链 -->
+在`MUA理事会`QQ群@`西邮 纸鹿`或者添加{% hashtag QQ:2399052066 %}，告知贵校组织的名称、官网、Logo链接即可。
+{% endtabs %}
 
 ## 友链
 
