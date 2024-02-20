@@ -12,7 +12,7 @@ sticky: 1
 
 {% link https://cop.imu.nm.cn 邮立方皮肤站 icon:https://p.qlogo.cn/gh/779877449/779877449/0/ %}
 
-邮立方皮肤站已接入 `MUA Union API` ，在邮立方皮肤站注册的账号，可以游玩接入 `MUA 联合认证` 的高校 Minecraft 服务器。如有关于邮立方皮肤站账号的问题，请联系纸鹿{% hashtag QQ:2399052066 %}。
+邮立方皮肤站已接入 `MUA Union API` ，在邮立方皮肤站注册的账号，可以游玩接入 `MUA 联合认证` 的高校 Minecraft 服务器。如有关于邮立方皮肤站账号的问题，请联系纸鹿{% hashtag QQ:2399052066 %}或者内大-Ysjttt{% hashtag QQ:1326093625 %}。
 
 ## 加入服务器
 
