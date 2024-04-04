@@ -2,14 +2,11 @@ logo:
   subtitle: 西安邮电大学MC兴趣交流团体|⛏ Cube of Posts
 
 menubar:
-  columns: 4
+  columns: 3
   items:
     - id: post
       title: 文章
       url: /
-    - id: skin
-      title: 皮肤站
-      url: https://cop.imu.nm.cn
     - id: link
       title: 链接
       url: /link/
@@ -17,36 +14,41 @@ menubar:
       title: 关于
       url: /about/
 
+site_tree:
+  index_blog:
+    nav_tabs: 
+      邮立方皮肤站: https://cop.imu.nm.cn/
+      
 article:
   type: story
 
 footer:
   sitemap:
     加入:
-      - "[<i class='fa-brands fa-qq'></i>QQ群: 779877449](https://qm.qq.com/q/MllD9EItGw)"
-      - "[<i class='fa-solid fa-cube'></i>邮立方皮肤站](https://cop.imu.nm.cn)"
+      - "[<i class='fa-brands fa-qq'></i> QQ群: 779877449](https://qm.qq.com/q/MllD9EItGw)"
+      - "[<i class='fa-solid fa-cube'></i> 邮立方皮肤站](https://cop.imu.nm.cn/)"
+      - "[<i class='fa-solid fa-medal'></i> Minecraft 高校联盟](https://www.mualliance.cn/)"
     探索:
-      - "[<i class='fa-solid fa-server'></i>MUA 联合认证服务器](https://www.mualliance.cn/server)"
-      - "[<i class='fa-solid fa-map-location-dot'></i>高校MC组织地图](https://map.mualliance.cn/)"
-      - "[<i class='fa-solid fa-book'></i>MUA 资料站](https://docs.mualliance.cn/)"
+      - "[<i class='fa-solid fa-server'></i> MUA 联合认证服务器](https://www.mualliance.cn/server)"
+      - "[<i class='fa-solid fa-map-location-dot'></i> 高校 MC 组织地图](https://map.mualliance.cn/)"
+      - "[<i class='fa-solid fa-medal'></i> MUA 成员](https://www.mualliance.cn/wiki#:~:text=%E9%82%AE%E7%AB%8B%E6%96%B9)"
     信息:
-      - "[<i class='fa-regular fa-calendar-check'></i>邮立方建立<uptime></uptime>](/about#%E5%A4%A7%E4%BA%8B%E8%AE%B0)"
-      - "[<i class='fa-solid fa-medal'></i>Minecraft高校联盟成员](https://www.mualliance.cn/wiki#:~:text=%E9%82%AE%E7%AB%8B%E6%96%B9)"
-      # - "[<i class='fa-brands fa-github'></i>pubsite/cube-of-posts-site](https://github.com/pubsite/cube-of-posts-site)"
-      - "[<i class='fa-solid fa-palette'></i>Stellar](https://github.com/xaoxuu/hexo-theme-stellar)"
+      - "[<i class='fa-regular fa-calendar-check'></i> 邮立方建立<uptime></uptime>](/about#%E5%A4%A7%E4%BA%8B%E8%AE%B0)"
+      - "[<i class='fa-brands fa-github'></i> pubsite/cube-of-posts-site](https://github.com/pubsite/cube-of-posts-site)"
+      - "[<i class='fa-solid fa-palette'></i> hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)"
   content: ""
 
 style:
   font-family:
     logo: AlimamaFangYuanTi
-    body: LXGW WenKai Screen
-  sidebar:
-    background: "linear-gradient(60deg, #cde, #8ac)"
+    body: sans-serif
+  leftbar:
+    background-image: "url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=100), linear-gradient(60deg, #cde, #8ac)"
 
 inject:
   head:
-    - <link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/style.min.css" media="none" onload="this.media='all'">
     - <link rel="stylesheet" href="//lib.baomitu.com/font-awesome/6.5.1/css/all.min.css" media="none" onload="this.media='all'">
     - <link rel="stylesheet" href="/static/font.css">
+    # - <link rel="stylesheet" href="//blog.zhilu.cyou/static/patch.css">
   script:
     - <script src="/static/uptime.js"></script>

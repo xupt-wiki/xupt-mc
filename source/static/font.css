@@ -3,59 +3,11 @@
   src: url('/static/AlimamaFangYuanTi.woff2');
 }
 
-*[ff=title] {
-  animation: VF_wght 13s infinite alternate, VF_BEVL 19s infinite alternate;
-}
-
-.font-fyt {
-  font-family: AlimamaFangYuanTi, LXGW WenKai Screen, PingFang SC, Helvetica, sans-serif;
-}
-
-@keyframes VF_wght {
-  from {
-    font-weight: 900;
-  }
-
-  to {
-    font-weight: 400;
-  }
-}
-
-@keyframes VF_BEVL {
-  from {
-    font-variation-settings: 'BEVL' 1;
-  }
-
-  to {
-    font-variation-settings: 'BEVL' 100;
-  }
-}
-
 .fa-solid,
 .fa-regular,
 .fa-brands {
   font-size: 1em;
-  min-width: 1.5rem;
+  min-width: 1rem;
   width: 1.2em;
   text-align: center;
-}
-
-[data-sub] {
-  display: inline-block;
-  text-align: center;
-  vertical-align: middle;
-}
-
-[data-sub]::after {
-  font-size: max(.6em, .8rem);
-  display: block;
-  content: attr(data-sub);
-  opacity: .6;
-}
-
-.alist {
-  display: flex;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: .5em 1em;
 }
