@@ -15,10 +15,9 @@ menubar:
       url: /about/
 
 site_tree:
-  index_blog:
-    nav_tabs: 
-      邮立方皮肤站: https://cop.imu.nm.cn/
-      
+  home:
+    rightbar: cop_skin
+
 article:
   type: story
 
@@ -34,8 +33,8 @@ footer:
       - "[<i class='fa-solid fa-medal'></i> MUA 成员](https://www.mualliance.cn/wiki#:~:text=%E9%82%AE%E7%AB%8B%E6%96%B9)"
     信息:
       - "[<i class='fa-regular fa-calendar-check'></i> 邮立方建立<uptime></uptime>](/about#%E5%A4%A7%E4%BA%8B%E8%AE%B0)"
-      - "[<i class='fa-brands fa-github'></i> pubsite/cube-of-posts-site](https://github.com/pubsite/cube-of-posts-site)"
-      - "[<i class='fa-solid fa-palette'></i> hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)"
+      - "[<i class='fa-brands fa-github'></i> 网站仓库](https://github.com/pubsite/cube-of-posts-site)"
+      - "[<i class='fa-solid fa-palette'></i> Hexo主题: Stellar](https://github.com/xaoxuu/hexo-theme-stellar)"
   content: ""
 
 style:

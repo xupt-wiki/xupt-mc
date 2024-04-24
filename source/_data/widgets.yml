@@ -1,0 +1,11 @@
+cop_skin:
+  layout: markdown
+  title: 服务器
+  linklist:
+    columns: 1
+    items:
+    - icon: <i class="fa-solid fa-cube"></i>
+      title: 邮立方皮肤站
+      url: https://cop.imu.nm.cn/
+  content: |
+    邮立方皮肤站已接入 `MUA Union API` ，在邮立方皮肤站注册的账号，可以游玩接入 `MUA 联合认证` 的高校 Minecraft 服务器。
