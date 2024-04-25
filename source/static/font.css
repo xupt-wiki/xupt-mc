@@ -11,3 +11,15 @@
   width: 1.2em;
   text-align: center;
 }
+
+.logo-wrap a.avatar {
+  border-radius: unset;
+}
+
+.logo-wrap a.avatar div.bg {
+  display: none;
+}
+
+.logo-wrap a.avatar img.avatar {
+  border-radius: 8px;
+}

@@ -30,7 +30,6 @@ footer:
     探索:
       - "[<i class='fa-solid fa-server'></i> MUA 联合认证服务器](https://www.mualliance.cn/server)"
       - "[<i class='fa-solid fa-map-location-dot'></i> 高校 MC 组织地图](https://map.mualliance.cn/)"
-      - "[<i class='fa-solid fa-medal'></i> MUA 成员](https://www.mualliance.cn/wiki#:~:text=%E9%82%AE%E7%AB%8B%E6%96%B9)"
     信息:
       - "[<i class='fa-regular fa-calendar-check'></i> 邮立方建立<uptime></uptime>](/about#%E5%A4%A7%E4%BA%8B%E8%AE%B0)"
       - "[<i class='fa-brands fa-github'></i> 网站仓库](https://github.com/pubsite/cube-of-posts-site)"
