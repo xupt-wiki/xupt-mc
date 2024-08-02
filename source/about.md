@@ -25,16 +25,16 @@ type: tech
 
 ## 大事记
 {% timeline %}
-<!-- node 2022年10月12日 -->
-在[Ayuki13](https://jiahuann.thisis.host)的帮助下，邮立方成立。
-<!-- node 2023年10月6日 国庆假期 -->
-负责人纸鹿代表西安邮电大学Minecraft兴趣团体参加了陕西Minecraft高校联盟的第三次聚餐活动。
-同日，邮立方首次对公众开放，并正式加入[Minecraft高校联盟(MUA)](https://www.mualliance.cn)。
-<!-- node 2024年1月1日 元旦 -->
-邮立方建立[官网](https://cop.cooo.site)。
-<!-- node 2024年2月10日 龙年春节 -->
-邮立方[官网](https://cop.cooo.site)由静态网页升级为博客。
 <!-- node 2024年2月20日 -->
 纸鹿作为邮立方(西安邮电大学)代表参加了2024年MUA理事会第一次会议。
 [IMUcraft](https://www.imucraft.cn)协助我们建立了[邮立方皮肤站](https://cop.imu.nm.cn)。
+<!-- node 2024年2月10日 龙年春节 -->
+邮立方[官网](https://cop.cooo.site)由静态网页升级为博客。
+<!-- node 2024年1月1日 元旦 -->
+邮立方建立[官网](https://cop.cooo.site)。
+<!-- node 2023年10月6日 国庆假期 -->
+负责人纸鹿代表西安邮电大学Minecraft兴趣团体参加了陕西Minecraft高校联盟的第三次聚餐活动。
+同日，邮立方首次对公众开放，并正式加入[Minecraft高校联盟(MUA)](https://www.mualliance.cn)。
+<!-- node 2022年10月12日 -->
+在[Ayuki13](https://jiahuann.thisis.host)的帮助下，邮立方成立。
 {% endtimeline %}

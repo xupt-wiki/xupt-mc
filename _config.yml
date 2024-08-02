@@ -104,6 +104,6 @@ theme: stellar
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: "git"
-  repo: https://github.com/pubsite/cube-of-posts-site.git
+  repo: # https://github.com/xupt-wiki/xupt-mc.git
   branch: pages
   message: "Site updated: {{ now('DD HH:mm:ss') }}"

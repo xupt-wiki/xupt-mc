@@ -36,17 +36,18 @@ footer:
       - "[<i class='fa-solid fa-palette'></i> Hexo主题: Stellar](https://github.com/xaoxuu/hexo-theme-stellar)"
   content: ""
 
-style:
-  font-family:
-    logo: AlimamaFangYuanTi
-    body: sans-serif
-  leftbar:
-    background-image: "url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=100), linear-gradient(60deg, #cde, #8ac)"
+# style:
+#   font-family:
+#     logo: "'猫啃珠圆体', system-ui, sans-serif"
+#   leftbar:
+#     background-image: "url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=100), linear-gradient(60deg, #cde, #8ac)"
 
 inject:
   head:
     - <link rel="stylesheet" href="//lib.baomitu.com/font-awesome/6.5.1/css/all.min.css" media="none" onload="this.media='all'">
+    - <link rel="stylesheet" href="https://chinese-fonts-cdn.deno.dev/packages/mkzyt/dist/猫啃珠圆体/result.css">
     - <link rel="stylesheet" href="/static/font.css">
-    # - <link rel="stylesheet" href="//blog.zhilu.cyou/static/patch.css">
+    - <link rel="stylesheet" href="//blog.zhilu.cyou/static/patch.css">
+    - <link rel="stylesheet" href="//blog.zhilu.cyou/static/patch-leftbar.css">
   script:
     - <script src="/static/uptime.js"></script>
