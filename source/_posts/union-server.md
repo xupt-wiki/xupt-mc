@@ -1,6 +1,7 @@
 ---
 title: 通过MUA联合大厅游玩其他高校服务器
 date: 2024-02-20 17:27:53
+updated: 2024-02-20 23:36:06
 references:
 - "[MUA联合大厅游玩教程](https://docs.mualliance.cn/zh/dev/union/lobby)"
 sticky: 1

@@ -1,7 +1,8 @@
 ---
 title: Better Minecraft 模组服尝鲜
-date: 2024/02/21 13:19:00
 categories: [服务器, 测试]
+date: 2024-02-21 13:19:00
+updated: 2024-02-21 23:35:56
 ---
 
 > 由 PKU 的 LettuceIce 发布，`lcpu.dev` 是北京大学 Linux 俱乐部持有的域名。

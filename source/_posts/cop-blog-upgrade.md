@@ -2,6 +2,7 @@
 title: 邮立方已升级为博客
 categories: [公告]
 date: 2024-02-10 01:44:00
+updated: 2024-02-20 20:17:20
 ---
 
 邮立方（Cube of Posts）经过近四小时的升级改造，现已由静态网页升级为Hexo博客，并托管在Netlify上。

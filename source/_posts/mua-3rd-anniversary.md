@@ -3,6 +3,7 @@ title: Minecraft高校联盟三周年 / Third anniversary of MUA
 categories: [公告]
 author: mua
 date: 2023-10-22 00:22:00
+updated: 2024-02-20 17:49:38
 ---
 
 亲爱的MUA成员及MC爱好者，
