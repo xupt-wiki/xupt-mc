@@ -9,11 +9,11 @@ sticky: 1
 
 ## 注册账号
 
-感谢 [IMUcraft(内蒙古大学似社非社Minecraft分部)](https://www.imucraft.cn/) 协助邮立方建立独立的皮肤站，你可以使用校园邮箱在邮立方皮肤站注册账号。
+感谢 [IMUcraft (内蒙古大学似社非社Minecraft分部)](https://www.imucraft.cn/) 协助邮立方建立独立的皮肤站，你可以使用校园邮箱在邮立方皮肤站注册账号。
 
 {% link https://cop.imu.nm.cn 邮立方皮肤站 icon:https://p.qlogo.cn/gh/779877449/779877449/0/ %}
 
-邮立方皮肤站已接入 `MUA Union API` ，在邮立方皮肤站注册的账号，可以游玩接入 `MUA 联合认证` 的高校 Minecraft 服务器。如有关于邮立方皮肤站账号的问题，请联系纸鹿{% hashtag QQ:2399052066 %}或者内大-Ysjttt{% hashtag QQ:1326093625 %}。
+邮立方皮肤站已接入 `MUA Union API` ，在邮立方皮肤站注册的账号，可以游玩接入 `MUA 联合认证` 的高校 Minecraft 服务器。如有关于邮立方皮肤站账号的问题，请联系纸鹿 {% hashtag QQ:2399052066 %} 或者内大负责人 {% hashtag QQ:3175943968 %}。
 
 ## 加入服务器
 
@@ -23,7 +23,7 @@ sticky: 1
 - MUA联合大厅(上交接入点)：`mua.sjmc.club`
 - MUA联合大厅(湖北接入点)：`hb.mualliance.cn`
 
-你也可以查看[MUA 联合大厅服务器列表](https://www.mualliance.cn/server)。
+你也可以查看 [MUA 联合大厅服务器列表](https://www.mualliance.cn/server)。
 
 ## MUA 山河服务器
 

@@ -47,7 +47,7 @@ inject:
     - <link rel="stylesheet" href="//lib.baomitu.com/font-awesome/6.5.1/css/all.min.css" media="none" onload="this.media='all'">
     - <link rel="stylesheet" href="https://chinese-fonts-cdn.deno.dev/packages/mkzyt/dist/猫啃珠圆体/result.css">
     - <link rel="stylesheet" href="/static/font.css">
-    - <link rel="stylesheet" href="//blog.zhilu.cyou/static/patch.css">
-    - <link rel="stylesheet" href="//blog.zhilu.cyou/static/patch-leftbar.css">
+    - <link rel="stylesheet" href="//thisis.host/static/patch.css">
+    - <link rel="stylesheet" href="//thisis.host/static/patch-leftbar.css">
   script:
     - <script src="/static/uptime.js"></script>

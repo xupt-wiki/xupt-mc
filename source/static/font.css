@@ -12,14 +12,11 @@
   font-synthesis: none;
 }
 
-.logo-wrap a.avatar {
-  border-radius: unset;
+.logo-wrap a.avatar,
+.logo-wrap a.avatar img.avatar {
+  border-radius: 2px;
 }
 
 .logo-wrap a.avatar div.bg {
   display: none;
-}
-
-.logo-wrap a.avatar img.avatar {
-  border-radius: 4px;
 }
