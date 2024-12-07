@@ -14,13 +14,13 @@
   url: https://www.imucraft.cn/
   icon: https://www.imucraft.cn/wp-content/uploads/2023/12/1701445001-log.png
 - title: 上海海事大学服务器
-  url: https://8888.band/
-  icon: https://8888.band/favicon.ico
+  url: https://smu.xn--6qq986b3xl/
+  icon: https://smu.xn--6qq986b3xl/favicon.ico
 - title: 复旦基岩社
   url: https://fdcraft.github.io/
   icon: https://fdcraft.github.io/logo.svg
 - title: 燕大MC社
-  url: http://ysumc.club/
+  # url: http://ysumc.club/
   icon: http://ysumc.club/favicon.svg
 - title: 上交MC社
   url: https://mc.sjtu.cn/
@@ -47,7 +47,7 @@
   url: https://www.nmo.net.cn/
   icon: https://www.nmo.net.cn/wp-content/uploads/2023/12/nmo_logo.png
 - title: 西南科大星空社
-  url: https://www.swustmc.fun/
+  # url: https://www.swustmc.fun/
   icon: https://www.swustmc.fun/wp-content/uploads/2023/11/cropped-1700216558-oiv7bXqc-192x192.png
 - title: 西邮邮立方
   url: https://cop.cooo.site/

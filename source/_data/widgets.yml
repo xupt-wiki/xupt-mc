@@ -1,11 +1,15 @@
+recent:
+  rss: /atom.xml
+  limit: 15
+
 cop_skin:
   layout: markdown
   title: 皮肤站
   linklist:
     columns: 2
     items:
-    - icon: <i class="fa-solid fa-cube"></i>
-      title: 皮肤站
-      url: https://cop.imu.nm.cn/
+      - icon: <i class="fa-solid fa-cube"></i>
+        title: 皮肤站
+        url: https://cop.imu.nm.cn/
   content: |
     邮立方是西安邮电大学的Minecraft兴趣交流团体，Minecraft高校联盟成员。本校学生可以通过校园邮箱注册邮立方皮肤站账号，游玩加入MUA联合认证的高校MC服务器。

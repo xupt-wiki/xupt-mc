@@ -4,7 +4,7 @@
 
 # Site
 title: 邮立方
-subtitle: 邮立方
+subtitle: Cube of Posts
 description: 西安邮电大学 Minecraft 兴趣交流团体，Minecraft 高校联盟成员。邮立方皮肤站接入了高校联合认证的账号系统，可以做到一号通玩。
 favicon: /static/cop.svg
 avatar: /static/cop.svg
@@ -49,13 +49,13 @@ syntax_highlighter: highlight.js
 highlight:
   line_number: true
   auto_detect: false
-  tab_replace: ""
+  tab_replace: "    "
   wrap: true
   hljs: false
 prismjs:
   preprocess: true
   line_number: true
-  tab_replace: ""
+  tab_replace: "    "
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -107,3 +107,9 @@ deploy:
   repo: # https://github.com/xupt-wiki/xupt-mc.git
   branch: pages
   message: "Site updated: {{ now('DD HH:mm:ss') }}"
+
+# 插件
+feed:
+  limit: false
+  content: false
+  order_by: -updated
