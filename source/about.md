@@ -12,27 +12,41 @@ type: tech
 {% link https://www.mualliance.cn/archives/1813 MUA成员：邮立方 icon:https://www.mualliance.cn/wp-content/uploads/2023/01/cropped-mualogo_512_tm-192x192.png %}
 
 ### 活动阵地
+
 {% hashtag QQ群:779877449 https://qm.qq.com/q/MllD9EItGw %}
 
 本校学生可以使用校园邮箱在[邮立方皮肤站](https://cop.imu.nm.cn)注册账号，感谢[IMUcraft](https://www.imucraft.cn)提供皮肤站服务器支持。
 
 ### 负责人
-#### 纸鹿/Zhilu (2022.10-)
+
+#### Grug (2024.12-)
+
+{% hashtag QQ:2976002717 %}
+{% hashtag GitHub:erthern https://github.com/erthern %}
+{% hashtag MC:Grug0630 https://namemc.com/profile/Grug0630.1 %}
+
+#### 纸鹿/Zhilu (2022.10-2024.12)
+
 {% hashtag QQ:2399052066 %}
 {% hashtag GitHub:L33Z22L11 https://github.com/L33Z22L11 %}
 {% hashtag MC:Zhilu https://namemc.com/profile/Zhilu.2 %}
 {% hashtag 博客:blog.zhilu.cyou https://blog.zhilu.cyou %}
 
 ## 大事记
+
 {% timeline %}
+<!-- node 2024年12月10日 -->
+邮立方负责人更换为Grug。
+<!-- node 2024年10月4日 -->
+纸鹿作为邮立方(西安邮电大学)代表参加了Minecraft高校联盟第二次线下大会。
 <!-- node 2024年2月20日 -->
 纸鹿作为邮立方(西安邮电大学)代表参加了2024年MUA理事会第一次会议。
 [IMUcraft](https://www.imucraft.cn)协助我们建立了[邮立方皮肤站](https://cop.imu.nm.cn)。
-<!-- node 2024年2月10日 龙年春节 -->
+<!-- node 2024年2月10日 -->
 邮立方[官网](https://cop.cooo.site)由静态网页升级为博客。
-<!-- node 2024年1月1日 元旦 -->
+<!-- node 2024年1月1日 -->
 邮立方建立[官网](https://cop.cooo.site)。
-<!-- node 2023年10月6日 国庆假期 -->
+<!-- node 2023年10月6日 -->
 负责人纸鹿代表西安邮电大学Minecraft兴趣团体参加了陕西Minecraft高校联盟的第三次聚餐活动。
 同日，邮立方首次对公众开放，并正式加入[Minecraft高校联盟(MUA)](https://www.mualliance.cn)。
 <!-- node 2022年10月12日 -->

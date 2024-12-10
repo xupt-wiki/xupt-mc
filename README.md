@@ -6,7 +6,7 @@
 
 ## 加入我们
 
-QQ群：779877449
+QQ群：`779877449`
 
 ## 官网构建
 
@@ -19,14 +19,15 @@ pnpm i
 ### 升级
 
 ```sh
-pnpm update --save
+pnpm update
 ```
 
 ### 运行
 
 ```sh
-hexo clean
-hexo server --draft
+# hexo clean
+# hexo server --draft
+pnpm dev
 ```
 
 ### 部署
@@ -36,3 +37,5 @@ git add .
 git commit -m "update"
 git push
 ```
+
+项目会自动更新到Netlify上。
