@@ -25,8 +25,6 @@ pnpm update
 ### 运行
 
 ```sh
-# hexo clean
-# hexo server --draft
 pnpm dev
 ```
 

@@ -32,20 +32,13 @@ footer:
       - '[<i class="fa-solid fa-map-location-dot"></i> 高校 MC 组织地图](https://map.mualliance.cn/)'
     信息:
       - '[<i class="fa-regular fa-calendar-check"></i> 邮立方建立<uptime></uptime>](/about#%E5%A4%A7%E4%BA%8B%E8%AE%B0)'
-      - '[<i class="fa-brands fa-github"></i> 网站仓库](https://github.com/pubsite/cube-of-posts-site)'
+      - '[<i class="fa-brands fa-github"></i> 网站仓库](https://github.com/xupt-wiki/xupt-mc)'
       - '[<i class="fa-solid fa-palette"></i> Hexo主题: Stellar](https://github.com/xaoxuu/hexo-theme-stellar)'
   content:
 
 search:
   local_search:
     field: post
-
-comments:
-  service: # twikoo
-  comment_title: 评论区
-  twikoo:
-    js: https://gcore.jsdelivr.net/npm/twikoo@1.6.40/dist/twikoo.all.min.js
-    envId: https://twikoo.zhilu.cyou/
 
 plugins:
   copycode:

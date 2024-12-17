@@ -1,6 +1,7 @@
 ---
 menu_id: about
 title: 邮立方 / Cube of Posts - 西邮MC兴趣交流团体
+h1: ''
 breadcrumb: false
 type: tech
 ---
