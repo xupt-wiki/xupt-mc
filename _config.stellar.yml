@@ -23,18 +23,22 @@ article:
 
 footer:
   sitemap:
-    加入:
-      - '[<i class="fa-brands fa-qq"></i> QQ群: 779877449](https://qm.qq.com/q/MllD9EItGw)'
-      - '[<i class="fa-solid fa-cube"></i> 邮立方皮肤站](https://cop.imu.nm.cn/)'
-      - '[<i class="fa-solid fa-medal"></i> Minecraft 高校联盟](https://www.mualliance.cn/)'
-    探索:
-      - '[<i class="fa-solid fa-server"></i> MUA 联合认证服务器](https://www.mualliance.cn/server)'
-      - '[<i class="fa-solid fa-map-location-dot"></i> 高校 MC 组织地图](https://map.mualliance.cn/)'
-    信息:
-      - '[<i class="fa-regular fa-calendar-check"></i> 邮立方建立<uptime></uptime>](/about#%E5%A4%A7%E4%BA%8B%E8%AE%B0)'
-      - '[<i class="fa-brands fa-github"></i> 网站仓库](https://github.com/xupt-wiki/xupt-mc)'
-      - '[<i class="fa-solid fa-palette"></i> Hexo主题: Stellar](https://github.com/xaoxuu/hexo-theme-stellar)'
-  content:
+    - title: 加入
+      items:
+        - '[<i class="fa-brands fa-qq"></i> QQ群: 779877449](https://qm.qq.com/q/MllD9EItGw)'
+        - '[<i class="fa-solid fa-cube"></i> 邮立方皮肤站](https://cop.imu.nm.cn/)'
+        - '[<i class="fa-solid fa-medal"></i> Minecraft 高校联盟](https://www.mualliance.cn/)'
+    - title: 探索
+      items:
+        - '[<i class="fa-solid fa-server"></i> MUA 联合认证服务器](https://www.mualliance.cn/server)'
+        - '[<i class="fa-solid fa-map-location-dot"></i> 高校 MC 组织地图](https://map.mualliance.cn/)'
+    - title: 信息
+      items:
+        - '[<i class="fa-solid fa-address-card"></i> 陕ICP备2025072742号-1](https://beian.miit.gov.cn/)'
+        - '[<i class="fa-brands fa-github"></i> 网站仓库](https://github.com/xupt-wiki/xupt-mc)'
+        - '[<i class="fa-solid fa-palette"></i> Hexo主题: Stellar](https://github.com/xaoxuu/hexo-theme-stellar)'
+  content: |
+    © 2022-2025 <span class="font-sht">邮立方</span>(TECHYES). 已成立<uptime></uptime>。
 
 search:
   local_search:
@@ -50,14 +54,14 @@ style:
     code: SFMono-Regular, Fira Code, JetBrains Mono, Cascadia Code, Monaco, Noto Sans Mono, Consolas, Droid Sans Mono, system-ui, monospace
     codeblock: SFMono-Regular, Fira Code, JetBrains Mono, Cascadia Code, Monaco, Noto Sans Mono, Consolas, Droid Sans Mono, system-ui, monospace
   leftbar:
-    background-image: # "url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=100), linear-gradient(60deg, #cde, #8ac)"
+    background-image: "url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=100), linear-gradient(60deg, #cde, #8ac)"
 
 inject:
   head:
-    - <link rel="stylesheet" href="https://lib.baomitu.com/font-awesome/6.5.1/css/all.min.css" media="none" onload="this.media='all'">
+    - <link rel="stylesheet" href="https://lib.baomitu.com/font-awesome/7.0.0/css/all.min.css" media="none" onload="this.media='all'">
     - <link rel="stylesheet" href="https://chinese-fonts-cdn.deno.dev/packages/mkzyt/dist/猫啃珠圆体/result.css">
     - <link rel="stylesheet" href="/static/font.css">
-    - <link rel="stylesheet" href="https://thisis.host/static/patch.css">
-    - <link rel="stylesheet" href="https://thisis.host/static/patch-leftbar.css">
+    - <link rel="stylesheet" href="https://www.thisis.host/static/patch-v2.css">
+    - <link rel="stylesheet" href="https://www.thisis.host/static/patch-leftbar-v2.css">
   script:
     - <script src="/static/uptime.js"></script>

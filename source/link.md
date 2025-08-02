@@ -13,6 +13,8 @@ type: tech
 
 ### 成员网站
 
+> 部分成员网站无法访问，已暂时隐藏。
+
 {% friends mua-member %}
 
 {% tabs %}

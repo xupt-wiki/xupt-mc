@@ -1,5 +1,5 @@
 - title: 南开MC社区
-  url: https://mcnku.net/
+  # url: https://mcnku.net/
   icon: https://mcnku.net/assets/image/logo.svg
 - title: 南信大信带工艺
   url: https://www.nuistcraft.com/
@@ -11,10 +11,10 @@
   url: https://wlyw.qlu.edu.cn/
   icon: https://wlyw.qlu.edu.cn/favicon.ico
 - title: 内大似社非社-IMUcraft
-  url: https://www.imucraft.cn/
+  # url: https://www.imucraft.cn/
   icon: https://www.imucraft.cn/wp-content/uploads/2023/12/1701445001-log.png
 - title: 上海海事大学服务器
-  url: https://smu.xn--6qq986b3xl/
+  # url: https://smu.xn--6qq986b3xl/
   icon: https://smu.xn--6qq986b3xl/favicon.ico
 - title: 复旦基岩社
   url: https://fdcraft.github.io/
@@ -23,28 +23,28 @@
   url: https://mc.sjtu.cn/
   icon: https://mc.sjtu.cn/wp-content/uploads/2022/03/cropped-mcclub-512px-192x192.png
 - title: 浙工大MC方块社
-  url: https://zjutmc.club/
+  # url: https://zjutmc.club/
   icon: https://zjutmc.club/wp-content/uploads/2022/09/cropped-ZJUT_MC_LOGO_%E5%B0%8F%E5%9B%BE%E6%A0%87-192x192.png
 - title: 大连交大MC大海啸
   url: http://mc.bobby.com.cn/
   icon: https://www.mualliance.cn/wp-content/uploads/2023/08/450px-%E6%B5%B7%E5%95%B8%E4%BC%9A%E5%BE%BD.png
 - title: 塔大胡杨方块社
-  url: https://www.tarucraft.club/
+  # url: https://www.tarucraft.club/
   icon: https://www.tarucraft.club/images/favicon.ico
 - title: 西工大MC创作协会
-  url: https://community.npucraft.com/
+  # url: https://community.npucraft.com/
   icon: https://npucraft-1304448012.cos.ap-nanjing.myqcloud.com/wp-content/uploads/2022/03/20220331213131941-192x192.png
 - title: 西安工大仙宫矿艺
   url: https://www.xatumc.top/
   icon: https://www.xatumc.top/icon.png
 - title: 西建大仙建世界协会
-  url: https://www.xauatcraft.com/
+  # url: https://www.xauatcraft.com/
   icon: https://cravatar.cn/wp-content/uploads/sites/9/2024/03/xianjianshijiexiehuilogo.png
 - title: 南大MC协会
   url: https://www.nmo.net.cn/
   icon: https://www.nmo.net.cn/wp-content/uploads/2023/12/nmo_logo.png
 - title: 西南科大星空社
-  url: https://www.swustmc.fun/
+  # url: https://www.swustmc.fun/
   icon: https://www.swustmc.fun/wp-content/uploads/2023/11/cropped-1700216558-oiv7bXqc-192x192.png
 - title: 西邮邮立方
   url: https://cop.cooo.site/
