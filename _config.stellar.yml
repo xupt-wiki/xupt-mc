@@ -34,11 +34,11 @@ footer:
         - '[<i class="fa-solid fa-map-location-dot"></i> 高校 MC 组织地图](https://map.mualliance.cn/)'
     - title: 信息
       items:
-        - '[<i class="fa-solid fa-address-card"></i> 陕ICP备2025072742号-1](https://beian.miit.gov.cn/)'
+        - '[<i class="fa-regular fa-calendar-check"></i> 邮立方建立<uptime></uptime>](/about#%E5%A4%A7%E4%BA%8B%E8%AE%B0)'
         - '[<i class="fa-brands fa-github"></i> 网站仓库](https://github.com/xupt-wiki/xupt-mc)'
         - '[<i class="fa-solid fa-palette"></i> Hexo主题: Stellar](https://github.com/xaoxuu/hexo-theme-stellar)'
   content: |
-    © 2022-2025 <span class="font-sht">邮立方</span>(TECHYES). 已成立<uptime></uptime>。
+    © 2022-2026 邮立方 (Cube of Posts)
 
 search:
   local_search:
@@ -51,8 +51,8 @@ plugins:
 
 style:
   font-family:
-    code: SFMono-Regular, Fira Code, JetBrains Mono, Cascadia Code, Monaco, Noto Sans Mono, Consolas, Droid Sans Mono, system-ui, monospace
-    codeblock: SFMono-Regular, Fira Code, JetBrains Mono, Cascadia Code, Monaco, Noto Sans Mono, Consolas, Droid Sans Mono, system-ui, monospace
+    code: JetBrains Mono, Cascadia Code, Monaco, Consolas, "monospace", "Noto Sans SC", system-ui, monospace
+    codeblock: JetBrains Mono, Cascadia Code, Monaco, Consolas, "monospace", "Noto Sans SC", system-ui, monospace
   leftbar:
     background-image: "url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=100), linear-gradient(60deg, #cde, #8ac)"
 
